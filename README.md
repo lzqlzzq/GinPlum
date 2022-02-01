@@ -20,10 +20,10 @@ GinPlum对HTTP函数提供的wsgi根据HTTP协议做了一些封装，便于开�
 - http触发器设在*index.handler()*上
 
 ## 安装
-无需安装，开箱即用，只需将代码包上传到函数中即可。
+无需安装，开箱即用，只需将代码包Relese中的上传到函数中即可。
 
 ## 使用
-参照[api.py](https://github.com/lzqlzzq/GinPlum/blob/main/api.py)的示例代码，并添加、实现业务接口。
+参照[api.py](https://github.com/lzqlzzq/GinPlum/blob/main/api.py)的示例代码，并添加、实现业务接口，将代码包上传到阿里云函数计算的函数中。
 
 ## 文件结构
 .  
@@ -39,7 +39,7 @@ GinPlum对HTTP函数提供的wsgi根据HTTP协议做了一些封装，便于开�
 |----.gitignore -------> git忽略文件，**使用时可删除**  
 
 ## 许可协议
-[MIT](https://github.com/lzqlzzq/GinPlum/blob/main/README.md)
+[MIT](https://github.com/lzqlzzq/GinPlum/blob/main/LICENSE)
 
 ## 更多信息
 [阿里云函数计算官方文档：Python HTTP函数](https://help.aliyun.com/document_detail/74756.html)
