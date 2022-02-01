@@ -35,8 +35,10 @@ GinPlum对HTTP函数提供的wsgi根据HTTP协议做了一些封装，便于开�
 |----requestEntity.py -------> 请求处理模块，将wsgi传过来的请求进行结构化处理以便使用
 |----responseEntity.py -------> 应答处理模块，便于构建应答
 |----test.py -------> 测试代码，**使用时可删除**
+|----LICENSE -------> 许可协议，**使用时可删除**
+|----.gitignore -------> git忽略文件，**使用时可删除**
 
-## 授权
+## 许可协议
 [MIT](https://github.com/lzqlzzq/GinPlum/blob/main/README.md)
 
 ## 更多信息
